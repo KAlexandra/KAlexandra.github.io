@@ -244,7 +244,7 @@ ul{
 	width:100%;
 	min-height:365px;
 	display:block;
-	text-align:center;
+	text-align:left;
 	background-size:cover;
 	padding: 4.2em 0;
 }
@@ -254,9 +254,9 @@ ul{
 }
 .welcome-left-in p{
 	color: #fff;
-	font-size: 1.5em;
+	font-size: 1.3em;
 	width: 85%;
-	line-height: 1.7em;
+	line-height: 1.5em;
 	margin: 0 auto;
 	padding: 2em 0 0 0;
 }
